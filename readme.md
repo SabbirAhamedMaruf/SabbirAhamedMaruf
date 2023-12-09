@@ -35,7 +35,7 @@ Combining my love for travel, exploration of cutting-edge technology, and the ar
 
 </div>
 
---
+---
 
 <div style="display:flex;gap:10px;">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SabbirAhamedMaruf&theme=nightowl" width="420px" height="200px"/>
