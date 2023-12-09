@@ -43,10 +43,6 @@ Combining my love for travel, exploration of cutting-edge technology, and the ar
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SabbirAhamedMaruf&theme=nightowl" width="420px" height="200px"/>
 </div>
 
-### Preferred Technological Expertise
-
-Passionate about crafting web applications, I leverage my expertise in React, Tailwind CSS, Express.js, and MongoDB. I love employing this technology stack to engineer innovative and scalable solutions.
-
 ### Technology that i know
 
 <p align="center">
