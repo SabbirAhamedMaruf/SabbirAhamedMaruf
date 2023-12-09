@@ -1,17 +1,21 @@
 <!-- banner -->
+
 ![Banner](/Assets/banner.jpg "banner")
 
 <!-- Greetings -->
+
 ### Hi There
 
-Welcome to my github territory. Make yourself comfortable and explore my repositories, and let's connect to contribute to the next frontier of technology. 
+Welcome to my github territory. Make yourself comfortable and explore my repositories, and let's connect to contribute to the next frontier of technology.
 
 <!-- Hobbies -->
+
 ### Hobbies and Goal
 
 Combining my love for travel, exploration of cutting-edge technology, and the artistry of coding. I am on a path to become a proficient full-stack developer. Committed to crafting exceptional digital experiences through continuous learning and innovation.
 
 <!-- Stay in touch -->
+
 ### Stay in touch
 
 <div align="center">
@@ -21,12 +25,18 @@ Combining my love for travel, exploration of cutting-edge technology, and the ar
 
 <!-- Stats -->
 
-###  Current Stats
+### Current Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SabbirAhamedMaruf&theme=nightowl&hide_border=true&border_radius=0&card_width=850)](https://git.io/streak-stats)
+## [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SabbirAhamedMaruf&theme=nightowl&hide_border=true&border_radius=0&card_width=850)](https://git.io/streak-stats)
+
+<div align="center">
+
+![card stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabbirAhamedMaruf&theme=nightowl&card_width=1950)
+
+</div>
+
 --
-![card stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabbirAhamedMaruf&theme=nightowl&card_width=1050)
---
+
 <div style="display:flex;gap:10px;">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SabbirAhamedMaruf&theme=nightowl" width="420px" height="200px"/>
 
@@ -38,12 +48,10 @@ Combining my love for travel, exploration of cutting-edge technology, and the ar
 Passionate about crafting web applications, I leverage my expertise in React, Tailwind CSS, Express.js, and MongoDB. I love employing this technology stack to engineer innovative and scalable solutions.
 
 ### Technology that i know
+
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb" /><br><br>
     <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,netlify,vercel" />
 </p>
 
-
 ### Current Overview
-
-
