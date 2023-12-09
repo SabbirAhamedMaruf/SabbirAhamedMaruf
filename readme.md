@@ -1,6 +1,6 @@
 <!-- banner -->
 
-![Banner](/Assets/banner.jpg "banner")
+![Banner](/Assets/banner.jpg "Greetings")
 
 <!-- Greetings -->
 
@@ -50,4 +50,3 @@ Combining my love for travel, exploration of cutting-edge technology, and the ar
     <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,netlify,vercel" />
 </p>
 
-### Current Overview
