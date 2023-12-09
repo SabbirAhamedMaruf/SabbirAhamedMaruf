@@ -25,9 +25,9 @@ Combining my love for travel, exploration of cutting-edge technology, and the ar
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SabbirAhamedMaruf&theme=nightowl&hide_border=true&border_radius=0&card_width=850)](https://git.io/streak-stats)
 --
-![card stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabbirAhamedMaruf&theme=nightowl&card_width=850)
+![card stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabbirAhamedMaruf&theme=nightowl&card_width=1050)
 --
-<div>
+<div style="display:flex;gap:10px;">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SabbirAhamedMaruf&theme=nightowl" width="420px" height="200px"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SabbirAhamedMaruf&theme=nightowl" width="420px" height="200px"/>
